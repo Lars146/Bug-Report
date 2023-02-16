@@ -1,0 +1,1307 @@
+[16:09:39] [main/INFO]: ModLauncher running: args [--username, Lars146, --version, forge-43.2.0, --gameDir, E:\curseforge mods\Instances\Lars' Modpack with friends, --assetsDir, E:\curseforge mods\Install\assets, --assetIndex, 1.19, --uuid, 8b86763680f841759e4e9a18c7d239cd, --accessToken, ????????, --clientId, OWZhZjNlODctM2IxMy00NDYyLTg4MDYtZDExNDk5ZGUwNjQz, --xuid, 2535471218927909, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 43.2.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[16:09:39] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[16:09:40] [main/INFO]: OptiFineTransformationService.onLoad
+[16:09:40] [main/INFO]: OptiFine ZIP file URL: union:/E:/curseforge%20mods/Instances/Lars'%20Modpack%20with%20friends/mods/OptiFine_1.19.2_HD_U_I1.jar%23202!/
+[16:09:40] [main/INFO]: OptiFine ZIP file: E:\curseforge mods\Instances\Lars' Modpack with friends\mods\OptiFine_1.19.2_HD_U_I1.jar
+[16:09:40] [main/INFO]: Target.PRE_CLASS is available
+[16:09:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/E:/curseforge%20mods/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2391!/ Service=ModLauncher Env=CLIENT
+[16:09:40] [main/INFO]: OptiFineTransformationService.initialize
+[16:09:41] [main/INFO]: Found mod file architectury-6.5.69-forge.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file backpacked-2.1.10-1.19.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file balm-4.5.3.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file BiomesOPlenty-1.19.2-17.1.1.162.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file blockui-1.19-0.0.64-ALPHA.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file Bookshelf-Forge-1.19.2-16.2.17.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file cfm-7.0.0-pre35-1.19.2.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file chestpresents-0.2.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file climbladdersfast-3.0.6-1.19-forge.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file cloth-config-8.2.88-forge.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file CraftableSlimeBalls.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file CraftingAutomat-MC1.19.x-1.2.3.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file craftingtweaks-forge-1.19-15.1.0.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file Decorative Blocks-forge-1.19.2-3.0.0.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file domum_ornamentum-1.19-1.0.76-ALPHA-universal.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file Entity_Collision_FPS_Fix-forge-1.19-2.0.0.0.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file FarmersDelight-1.19-1.2.0.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file FarmersRespite-1.19-2.0.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file farsight-1.19.2-2.1.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file FastFurnace-1.19.2-7.0.0.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file FastLeafDecay-30.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file ferritecore-5.0.3-forge.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file flywheel-forge-1.19.2-0.6.8.a.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file ftb-chunks-forge-1902.3.15-build.233.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file ftb-essentials-1902.1.10-build.47.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file ftb-library-forge-1902.3.12-build.170.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file ftb-teams-forge-1902.2.12-build.95.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file gravestone-1.19.2-1.0.1.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file infinitemusic-1.7.0.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file jei-1.19.2-forge-11.5.2.1007.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file journeymap-1.19.2-5.9.3-forge.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file JustEnoughResources-1.19.2-1.2.1.193.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file kleeslabs-forge-1.19-12.1.0.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file leathercraft-1.19.2-1.1.0.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file mcw-bridges-2.0.6-mc1.19.2forge.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file mcw-windows-2.1.1-mc1.19.2forge.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file minecolonies-1.19.2-1.0.1226-BETA.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file modnametooltip-1.19-1.19.0.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file moonlight-1.19.2-2.2.5-forge.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file MouseTweaks-forge-mc1.19-2.23.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file multipiston-1.19.2-1.2.21-ALPHA.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file netherportalfix-forge-1.19-10.0.0.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file nocube's_farmers_compats_1.0.0_Forge_1.19.2.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.0.13.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file pipez-1.19.2-1.0.1.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file Placebo-1.19.2-7.1.2.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file polymorph-forge-0.46.1+1.19.2.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file rechiseled-1.0.12a-forge-mc1.19.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file redstone_clock-1.0-1.19-1.19.2.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file structurize-1.19.2-1.0.472-BETA.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file supermartijn642configlib-1.1.6b-forge-mc1.19.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file supermartijn642corelib-1.1.1a-forge-mc1.19.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file supplementaries-1.19.2-2.2.46.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file TerraBlender-forge-1.19.2-2.0.1.128.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/INFO]: Found mod file voicechat-forge-1.19.2-2.3.28.jar of type MOD with provider {mods folder locator at E:\curseforge mods\Instances\Lars' Modpack with friends\mods}
+[16:09:41] [main/WARN]: Mod file E:\curseforge mods\Install\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.0\fmlcore-1.19.2-43.2.0.jar is missing mods.toml file
+[16:09:41] [main/WARN]: Mod file E:\curseforge mods\Install\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.0\javafmllanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[16:09:41] [main/WARN]: Mod file E:\curseforge mods\Install\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.0\lowcodelanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[16:09:41] [main/WARN]: Mod file E:\curseforge mods\Install\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.0\mclanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[16:09:41] [main/INFO]: Found mod file fmlcore-1.19.2-43.2.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6a74d228
+[16:09:41] [main/INFO]: Found mod file javafmllanguage-1.19.2-43.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6a74d228
+[16:09:41] [main/INFO]: Found mod file lowcodelanguage-1.19.2-43.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6a74d228
+[16:09:41] [main/INFO]: Found mod file mclanguage-1.19.2-43.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6a74d228
+[16:09:41] [main/INFO]: Found mod file client-1.19.2-20220805.130853-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6a74d228
+[16:09:41] [main/INFO]: Found mod file forge-1.19.2-43.2.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6a74d228
+[16:09:41] [main/INFO]: Found 1 dependencies adding them to mods collection
+[16:09:41] [main/INFO]: Found mod file spectrelib-forge-0.11.0+1.19.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@35835fa
+[16:09:42] [main/INFO]: OptiFineTransformationService.transformers
+[16:09:42] [main/INFO]: Targets: 386
+[16:09:42] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
+[16:09:43] [main/INFO]: Compatibility level set to JAVA_17
+[16:09:44] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-43.2.0, --gameDir, E:\curseforge mods\Instances\Lars' Modpack with friends, --assetsDir, E:\curseforge mods\Install\assets, --uuid, 8b86763680f841759e4e9a18c7d239cd, --username, Lars146, --assetIndex, 1.19, --accessToken, ????????, --clientId, OWZhZjNlODctM2IxMy00NDYyLTg4MDYtZDExNDk5ZGUwNjQz, --xuid, 2535471218927909, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[16:09:45] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/data/ChunkRenderData$Builder (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.data.ChunkRenderData$Builder)
+[16:09:45] [main/WARN]: @Mixin target me.jellysquid.mods.sodium.client.render.chunk.data.ChunkRenderData$Builder was not found flywheel.mixins.json:instancemanage.SodiumChunkRenderDataMixin
+[16:09:52] [pool-3-thread-1/INFO]: Building unoptimized datafixer
+[16:09:55] [Render thread/WARN]: Assets URL 'union:/E:/curseforge%20mods/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23259!/assets/.mcassetsroot' uses unexpected schema
+[16:09:55] [Render thread/WARN]: Assets URL 'union:/E:/curseforge%20mods/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23259!/data/.mcassetsroot' uses unexpected schema
+[16:09:55] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:09:55] [Render thread/INFO]: Setting user: Lars146
+[16:09:55] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[16:09:55] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[16:09:56] [Render thread/INFO]: [OptiFine] 
+[16:09:56] [Render thread/INFO]: [OptiFine] OptiFine_1.19.2_HD_U_I1
+[16:09:56] [Render thread/INFO]: [OptiFine] Build: 20221213-150857
+[16:09:56] [Render thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[16:09:56] [Render thread/INFO]: [OptiFine] Java: 17.0.3, Microsoft
+[16:09:56] [Render thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[16:09:56] [Render thread/INFO]: [OptiFine] LWJGL: 3.4.0 Win32 WGL Null EGL OSMesa VisualC DLL
+[16:09:56] [Render thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce RTX 3060/PCIe/SSE2, version 3.2.0 NVIDIA 528.49, NVIDIA Corporation
+[16:09:56] [Render thread/INFO]: [OptiFine] OpenGL Version: 3.2.0
+[16:09:56] [Render thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[16:09:56] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[16:09:56] [Render thread/INFO]: [Shaders] OpenGL Version: 3.2.0 NVIDIA 528.49
+[16:09:56] [Render thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[16:09:56] [Render thread/INFO]: [Shaders] Renderer: NVIDIA GeForce RTX 3060/PCIe/SSE2
+[16:09:56] [Render thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  - 
+[16:09:56] [Render thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[16:09:56] [Render thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
+[16:09:56] [Render thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[16:09:56] [Render thread/INFO]: [Shaders] Load shaders configuration.
+[16:09:56] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[16:09:56] [Render thread/INFO]: [Shaders] No shaderpack loaded.
+[16:09:56] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[16:09:56] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[16:09:56] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[16:09:56] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[16:09:56] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbessentials:update_tab_name
+[16:09:56] [VersionCheck/INFO]: [OptiFine] java.io.FileNotFoundException: http://optifine.net/version/1.19.2/HD_U.txt
+[16:09:56] [modloading-worker-0/INFO]: Forge mod loading, version 43.2.0, for MC 1.19.2 with MCP 20220805.130853
+[16:09:56] [modloading-worker-0/INFO]: MinecraftForge v43.2.0 Initialized
+[16:09:56] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[16:09:56] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[16:09:56] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[16:09:56] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[16:09:56] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[16:09:56] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[16:09:56] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[16:09:56] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (compressBlacklist in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Common)
+[16:09:56] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (disabledAddons in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Client)
+[16:09:56] [modloading-worker-0/INFO]: Loaded config file.
+[16:09:56] [modloading-worker-0/INFO]: Saved config file.
+[16:09:57] [Thread-11/WARN]: Failed to fetch contributors data from url https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/master/credits.json, com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 41 column 6 path $.supporters.AlfaTheseus.has_statue
+[16:09:57] [modloading-worker-0/INFO]: Optifine detected.
+[16:09:57] [modloading-worker-0/INFO]: Hello from ClimbLaddersFast!
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Shire
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Desert Oasis
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Pagoda
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Minecolonies Original
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Caledonia
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Incan
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Warped Netherlands
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Dark Oak Treehouse
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Urban Birch
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Medieval Oak
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Medieval Birch
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Cavern
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Space Wars
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Medieval Spruce
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Jungle Treehouse
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Nordic Spruce
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Medieval Dark Oak
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Urban Savanna
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Stalactite Caves
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Lost Mesa City
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Fortress
+[16:09:57] [Structurize IO Worker #0/INFO]: Registered structure pack: Lars146
+[16:09:57] [Structurize IO Worker #0/WARN]: Finished discovering Client Structure packs
+[16:09:57] [modloading-worker-0/INFO]: Hello client from ClimbLaddersFast!
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:edit_nbt
+[16:09:57] [modloading-worker-0/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:sync_known_server_registries
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:sync_teams
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:sync_message_history
+[16:09:57] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:open_gui
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:open_my_team_gui
+[16:09:57] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:update_settings
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:update_settings_response
+[16:09:57] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:send_message
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:send_message_response
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:update_presence
+[16:09:57] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:create_party
+[16:09:57] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:player_gui_operation
+[16:09:57] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:request_map_data
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:send_all_chunks
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:login_data
+[16:09:57] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:request_chunk_change
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:send_chunk
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:send_general_data
+[16:09:57] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:teleport_from_map
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:player_death
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:send_visible_player_list
+[16:09:57] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:sync_tx
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:sync_rx
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:loaded_chunk_view
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:send_player_position
+[16:09:57] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
+[16:09:57] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:server_config_request
+[16:09:57] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:server_config_response
+[16:10:00] [Render thread/WARN]: Failed to find custom wood type byg:embur
+[16:10:00] [Render thread/INFO]: Initialized block sets in 18ms
+[16:10:02] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
+[16:10:02] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
+[16:10:02] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
+[16:10:02] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module net.optifine
+[16:10:03] [Render thread/INFO]: Registering Keybinds
+[16:10:03] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[16:10:03] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources, Supplementaries Generated Pack
+[16:10:03] [Render thread/INFO]: Generated runtime CLIENT_RESOURCES for pack Supplementaries Generated Pack in: 425 ms
+[16:10:03] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
+[16:10:03] [Render thread/INFO]: [OptiFine] Resource packs: Mod Resources, Supplementaries Generated Pack
+[16:10:03] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[16:10:03] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Supplementaries Generated Pack
+[16:10:03] [Render thread/INFO]: [OptiFine] EmissiveTextures: Loading optifine/emissive.properties
+[16:10:04] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[16:10:04] [Worker-Main-3/INFO]: [OptiFine] Multitexture: false
+[16:10:04] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[16:10:04] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
+[16:10:04] [Render thread/INFO]: [OptiFine] *** Reflector Forge ***
+[16:10:04] [Render thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[16:10:04] [Worker-Main-4/INFO]: Found @Ljourneymap/client/api/ClientPlugin;: com.minecolonies.coremod.compatibility.journeymap.JourneymapPlugin
+[16:10:04] [Worker-Main-4/INFO]: farsight_view mod initialized
+[16:10:04] [Worker-Main-4/INFO]: Compatibility version 15
+[16:10:04] [Forge Version Check/INFO]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[16:10:04] [Worker-Main-4/INFO]: Loading plugins
+[16:10:04] [Worker-Main-4/INFO]: Loaded 0 plugin(s)
+[16:10:04] [Worker-Main-4/INFO]: Initializing plugins
+[16:10:04] [Worker-Main-4/INFO]: Initialized 0 plugin(s)
+[16:10:05] [Forge Version Check/INFO]: [mcwwindows] Found status: UP_TO_DATE Current: 2.1.1 Target: null
+[16:10:05] [Forge Version Check/INFO]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[16:10:05] [Forge Version Check/INFO]: [journeymap] Found status: UP_TO_DATE Current: 5.9.3 Target: null
+[16:10:05] [Forge Version Check/INFO]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.19.2
+[16:10:05] [Worker-Main-4/INFO]: "E:\curseforge mods\Instances\Lars' Modpack with friends\config\byg\end-biomes.json5" was read.
+[16:10:05] [Worker-Main-4/INFO]: "E:\curseforge mods\Instances\Lars' Modpack with friends\config\byg\nether-biomes.json5" was read.
+[16:10:05] [Forge Version Check/INFO]: [bookshelf] Found status: BETA Current: 16.2.17 Target: 16.2.17
+[16:10:05] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16:10:05] [Worker-Main-4/INFO]: "E:\curseforge mods\Instances\Lars' Modpack with friends\config\byg\overworld\byg-overworld-biomes.json5" was read.
+[16:10:05] [Worker-Main-4/INFO]: "E:\curseforge mods\Instances\Lars' Modpack with friends\config\byg\surface_rules\end_surface_rules.json5" was read.
+[16:10:05] [Worker-Main-4/INFO]: "E:\curseforge mods\Instances\Lars' Modpack with friends\config\byg\surface_rules\nether_surface_rules.json5" was read.
+[16:10:05] [Worker-Main-4/INFO]: "E:\curseforge mods\Instances\Lars' Modpack with friends\config\byg\surface_rules\overworld_surface_rules.json5" was read.
+[16:10:05] [Worker-Main-4/INFO]: "E:\curseforge mods\Instances\Lars' Modpack with friends\config\byg\growing-patterns.json5" was read.
+[16:10:05] [Worker-Main-4/INFO]: "E:\curseforge mods\Instances\Lars' Modpack with friends\config\byg\trades.json5" was read.
+[16:10:05] [Worker-Main-4/INFO]: "E:\curseforge mods\Instances\Lars' Modpack with friends\config\byg\settings.json5" was read.
+[16:10:05] [Worker-Main-4/INFO]: "E:\curseforge mods\Instances\Lars' Modpack with friends\config\byg\biomepedia.json5" was read.
+[16:10:05] [Worker-Main-4/INFO]: Created compressed zip back up for "E:\curseforge mods\Instances\Lars' Modpack with friends\config\byg" in "E:\curseforge mods\Instances\Lars' Modpack with friends\config\byg\backups\last_working_configs_backup.zip"
+[16:10:05] [Worker-Main-4/INFO]: BYG: Added strippable Blocks...
+[16:10:05] [Render thread/INFO]: Initializing Packet Registries
+[16:10:06] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: jei:gui/icons/recipe_transfer, 7 -> 14
+[16:10:06] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 43.2.0 Target: null
+[16:10:06] [Forge Version Check/INFO]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/master/forge/update.json
+[16:10:06] [Forge Version Check/INFO]: [supplementaries] Found status: OUTDATED Current: 1.19.2-2.2.46 Target: 1.19.2-2.2.49
+[16:10:06] [Forge Version Check/INFO]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[16:10:06] [Forge Version Check/INFO]: [mcwbridges] Found status: UP_TO_DATE Current: 2.0.6 Target: null
+[16:10:06] [Forge Version Check/INFO]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
+[16:10:06] [Render thread/INFO]: Finished mod setup in: [0, 4, 1, 3, 7, 37, 4, 0, 0, 0, 0, 6, 12, 2] ms
+[16:10:06] [Render thread/INFO]: Initialized color sets in 80ms
+[16:10:06] [Render thread/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[16:10:06] [Render thread/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[16:10:06] [Render thread/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[16:10:06] [Render thread/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[16:10:06] [Render thread/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[16:10:06] [Render thread/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[16:10:06] [Render thread/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[16:10:06] [Render thread/INFO]: Initializing BYG network...
+[16:10:06] [Render thread/INFO]: Initialized BYG network!
+[16:10:06] [Render thread/INFO]: Registered region byg:region_0 to index 4 for type OVERWORLD
+[16:10:06] [Render thread/INFO]: Registered region byg:region_1 to index 5 for type OVERWORLD
+[16:10:06] [Render thread/INFO]: Registered region byg:region_2 to index 6 for type OVERWORLD
+[16:10:06] [Render thread/INFO]: Registered region byg:region_3 to index 7 for type OVERWORLD
+[16:10:06] [Placebo Patreon Wing Loader/INFO]: Loading patreon wing data...
+[16:10:06] [Placebo Patreon Trail Loader/INFO]: Loading patreon trails data...
+[16:10:06] [Worker-Main-6/INFO]: BYG: "Client Setup" Event Complete!
+[16:10:06] [Worker-Main-5/INFO]: Optifine compat disabled. Reason: waiting for optifine to catch up with vanilla
+[16:10:06] [Placebo Patreon Wing Loader/INFO]: Loaded 18 patreon wings.
+[16:10:06] [Forge Version Check/INFO]: [voicechat] Found status: UP_TO_DATE Current: 1.19.2-2.3.28 Target: null
+[16:10:06] [Forge Version Check/INFO]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.19.2
+[16:10:06] [Placebo Patreon Trail Loader/INFO]: Loaded 23 patreon trails.
+[16:10:06] [Forge Version Check/INFO]: [enchdesc] Found status: BETA Current: 13.0.14 Target: 13.0.14
+[16:10:06] [Forge Version Check/INFO]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[16:10:06] [Forge Version Check/INFO]: [moonlight] Found status: OUTDATED Current: 1.19.2-2.2.5 Target: 1.19.2-2.2.6
+[16:10:06] [Forge Version Check/INFO]: [pipez] Starting version check at https://maxhenkel.de/update/pipez.json
+[16:10:06] [Render thread/INFO]: Journeymap Initializing
+[16:10:06] [Render thread/INFO]: JourneyMap log initialized.
+[16:10:06] [Render thread/INFO]: initialize ENTER
+[16:10:06] [Render thread/INFO]: [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[16:10:06] [Render thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[16:10:06] [Render thread/INFO]: Initialized IClientPlugin: com.minecolonies.coremod.compatibility.journeymap.JourneymapPlugin
+[16:10:06] [Forge Version Check/INFO]: [pipez] Found status: UP_TO_DATE Current: 1.19.2-1.0.1 Target: null
+[16:10:06] [Forge Version Check/INFO]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[16:10:06] [Render thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:10:06] [Forge Version Check/INFO]: [flywheel] Found status: UP_TO_DATE Current: 0.6.8.a Target: null
+[16:10:06] [Forge Version Check/INFO]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
+[16:10:06] [Forge Version Check/INFO]: [gravestone] Found status: UP_TO_DATE Current: 1.19.2-1.0.1 Target: null
+[16:10:06] [Forge Version Check/INFO]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
+[16:10:06] [Render thread/INFO]: initialize EXIT, elapsed count 1 avg 378.04ms
+[16:10:07] [Forge Version Check/INFO]: [backpacked] Found status: BETA Current: 2.1.10 Target: null
+[16:10:07] [Forge Version Check/INFO]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[16:10:07] [Forge Version Check/INFO]: [cfm] Found status: BETA Current: 7.0.0-pre35 Target: 7.0.0-pre35
+[16:10:07] [Forge Version Check/INFO]: [fastleafdecay] Starting version check at https://www.olafkeijsers.net/fastleafdecay-update.json
+[16:10:07] [Forge Version Check/INFO]: [fastleafdecay] Found status: BETA Current: 30 Target: null
+[16:10:09] [Worker-Main-2/WARN]: Unable to load model: 'decorative_blocks:blockstate_copy_item#inventory' referenced from: decorative_blocks:blockstate_copy_item#inventory: {}
+[16:10:09] [Worker-Main-2/WARN]: java.io.FileNotFoundException: decorative_blocks:models/item/blockstate_copy_item.json
+[16:10:09] [Worker-Main-2/WARN]: Unable to load model: 'supplementaries:blocks/wall_lanterns/wall_lantern_brass' referenced from: supplementaries:blocks/wall_lanterns/wall_lantern_brass: {}
+[16:10:09] [Worker-Main-2/WARN]: java.io.FileNotFoundException: supplementaries:models/blocks/wall_lanterns/wall_lantern_brass.json
+[16:10:09] [Worker-Main-2/WARN]: Unable to load model: 'supplementaries:blocks/wall_lanterns/wall_lantern_glowstone' referenced from: supplementaries:blocks/wall_lanterns/wall_lantern_glowstone: {}
+[16:10:09] [Worker-Main-2/WARN]: java.io.FileNotFoundException: supplementaries:models/blocks/wall_lanterns/wall_lantern_glowstone.json
+[16:10:09] [Worker-Main-2/WARN]: Unable to load model: 'supplementaries:blocks/wall_lanterns/wall_lantern_gold' referenced from: supplementaries:blocks/wall_lanterns/wall_lantern_gold: {}
+[16:10:09] [Worker-Main-2/WARN]: java.io.FileNotFoundException: supplementaries:models/blocks/wall_lanterns/wall_lantern_gold.json
+[16:10:09] [Worker-Main-2/WARN]: Unable to load model: 'supplementaries:blocks/wall_lanterns/wall_lantern_cryptic' referenced from: supplementaries:blocks/wall_lanterns/wall_lantern_cryptic: {}
+[16:10:09] [Worker-Main-2/WARN]: java.io.FileNotFoundException: supplementaries:models/blocks/wall_lanterns/wall_lantern_cryptic.json
+[16:10:09] [Worker-Main-2/WARN]: Unable to load model: 'supplementaries:blocks/wall_lanterns/wall_lantern_copper' referenced from: supplementaries:blocks/wall_lanterns/wall_lantern_copper: {}
+[16:10:09] [Worker-Main-2/WARN]: java.io.FileNotFoundException: supplementaries:models/blocks/wall_lanterns/wall_lantern_copper.json
+[16:10:09] [Worker-Main-2/WARN]: [OptiFine] Unknown resource pack type: Supplementaries Generated Pack
+[16:10:09] [Worker-Main-2/WARN]: [OptiFine] Unknown resource pack type: Supplementaries Generated Pack
+[16:10:09] [Worker-Main-2/WARN]: [OptiFine] Unknown resource pack type: Supplementaries Generated Pack
+[16:10:09] [Worker-Main-2/WARN]: [OptiFine] Unknown resource pack type: Supplementaries Generated Pack
+[16:10:09] [Worker-Main-2/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[16:10:09] [Worker-Main-2/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[16:10:09] [Worker-Main-2/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[16:10:09] [Worker-Main-2/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[16:10:12] [Worker-Main-2/WARN]: Unable to resolve texture reference: #missing in domum_ornamentum:block/doors/door_waffle_top_right_open_spec
+[16:10:12] [Worker-Main-2/WARN]: Unable to resolve texture reference: #missing in domum_ornamentum:block/trapdoors/trapdoor_waffle_spec
+[16:10:12] [Worker-Main-2/WARN]: Unable to resolve texture reference: #missing in domum_ornamentum:block/doors/door_waffle_top_left_spec
+[16:10:12] [Worker-Main-2/WARN]: Unable to resolve texture reference: #missing in domum_ornamentum:block/doors/door_waffle_top_left_open_spec
+[16:10:12] [Worker-Main-2/WARN]: Unable to resolve texture reference: #missing in domum_ornamentum:block/doors/door_waffle_top_right_spec
+[16:10:12] [Worker-Main-2/WARN]: Unable to resolve texture reference: #missing in multipiston:block/multipistonblock
+[16:10:12] [Worker-Main-2/WARN]: Unable to resolve texture reference: #missing in multipiston:item/multipistonblock
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
+[16:10:12] [Worker-Main-2/WARN]: [OptiFine] Unknown resource pack type: Supplementaries Generated Pack
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] Multipass connected textures: false
+[16:10:12] [Worker-Main-2/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] Multipass connected textures: false
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[16:10:12] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[16:10:13] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[16:10:13] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[16:10:13] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[16:10:13] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[16:10:13] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[16:10:13] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[16:10:13] [Worker-Main-2/INFO]: [OptiFine] Multipass connected textures: false
+[16:10:13] [Worker-Main-2/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[16:10:17] [Worker-Main-2/INFO]: [OptiFine] Mipmap levels: 4
+[16:10:17] [Worker-Main-7/ERROR]: Using missing texture, file supplementaries:textures/blocks/sconce_fire_nether_brass.png not found
+[16:10:17] [Worker-Main-4/ERROR]: Using missing texture, file buzzier_bees:textures/block/soul_candle_lit.png not found
+[16:10:17] [Worker-Main-6/ERROR]: Using missing texture, file supplementaries:textures/items/sconce_nether_brass.png not found
+[16:10:17] [Worker-Main-5/ERROR]: Using missing texture, file supplementaries:textures/blocks/sconce_nether_brass.png not found
+[16:10:17] [Worker-Main-3/ERROR]: Using missing texture, file buzzier_bees:textures/block/soul_candle.png not found
+[16:10:17] [Worker-Main-2/INFO]: [OptiFine] Scaled non power of 2: minecolonies:gui/builderhut/builder_paper_sketch, 190 -> 192
+[16:10:17] [Worker-Main-2/WARN]: Texture minecolonies:gui/builderhut/builder_paper_sketch with size 192x246 limits mip level from 4 to 1
+[16:10:17] [Worker-Main-2/INFO]: [OptiFine] Scaled non power of 2: minecolonies:gui/builderhut/builder_paper, 190 -> 192
+[16:10:17] [Worker-Main-2/INFO]: [OptiFine] Scaled non power of 2: minecolonies:blocks/books/paper_graveyard, 52 -> 64
+[16:10:17] [Worker-Main-2/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 1, because of minimum power of two: 2
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Sprite size: 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Mipmap levels: 6
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: farmersrespite:item/empty_container_slot_bottle, 16 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[16:10:19] [Worker-Main-2/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Sprite size: 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Mipmap levels: 6
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/half_vertical, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/square_top_right, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/triangle_bottom, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/stripe_downleft, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/half_vertical_right, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/triangles_bottom, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/stripe_downright, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/base, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/globe, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/diagonal_up_left, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/square_bottom_right, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/circle, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/creeper, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/triangle_top, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/half_horizontal_bottom, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/flower, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/rhombus, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/triangles_top, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/mojang, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: farmersrespite:item/empty_container_slot_bottle, 16 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/gradient, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/straight_cross, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/gradient_up, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/stripe_left, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/curly_border, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/stripe_top, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/stripe_middle, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/border, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/bricks, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/stripe_center, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/square_top_left, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/diagonal_right, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/stripe_right, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/diagonal_left, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/small_stripes, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/stripe_bottom, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/square_bottom_left, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/diagonal_up_right, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/piglin, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/cross, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/half_horizontal, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/flags/skull, 32 -> 64
+[16:10:19] [Worker-Main-2/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Sprite size: 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Mipmap levels: 6
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: farmersrespite:item/empty_container_slot_bottle, 16 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[16:10:19] [Worker-Main-2/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Sprite size: 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Mipmap levels: 6
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: farmersrespite:item/empty_container_slot_bottle, 16 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[16:10:19] [Worker-Main-2/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Sprite size: 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Mipmap levels: 6
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: farmersrespite:item/empty_container_slot_bottle, 16 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[16:10:19] [Worker-Main-2/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Sprite size: 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Mipmap levels: 6
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_black, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_pink, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_orange, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_antique, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_green, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_written, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_brown, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_white, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_light_blue, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_enchanted, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_and_quill, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_lime, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_tome, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_light_gray, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_yellow, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_red, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: farmersrespite:item/empty_container_slot_bottle, 16 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_blue, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_purple, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_gray, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_cyan, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: supplementaries:entity/books/book_magenta, 32 -> 64
+[16:10:19] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[16:10:19] [Worker-Main-2/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[16:10:20] [Render thread/INFO]: Loaded all shader sources.
+[16:10:20] [Worker-Main-7/WARN]: Register mappings
+[16:10:20] [Render thread/INFO]: Journeymap PostInit
+[16:10:20] [Render thread/ERROR]: Couldn't locate icons for flat: E:\curseforge%20mods\Instances\Lars'%20Modpack%20with%20friends\mods\journeymap-1.19.2-5.9.3-forge.jar\assets\journeymap\theme\flat
+[16:10:20] [Render thread/INFO]: Preloaded theme textures: 0
+[16:10:20] [Render thread/INFO]: OptiFine detected.
+[16:10:20] [Render thread/INFO]: postInitialize EXIT, elapsed count 1 avg 30.56ms
+[16:10:20] [Render thread/INFO]: BYG: Compostible Blocks Added!
+[16:10:20] [Render thread/INFO]: BYG: Added tillables!
+[16:10:20] [Render thread/INFO]: BYG: Added Flammables!
+[16:10:20] [Render thread/INFO]: BYG: "Load Complete" Event Complete!
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[16:10:24] [Render thread/WARN]: Missing sound for event: supplementaries:item.wrench.hit
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.builder.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.builder.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.deliveryman.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.deliveryman.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.miner.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.miner.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.lumberjack.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.lumberjack.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.farmer.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.farmer.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.undertaker.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.undertaker.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.fisherman.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.fisherman.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.baker.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.baker.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cook.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cook.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.shepherd.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.shepherd.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cowboy.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cowboy.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.swineherder.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.swineherder.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.chickenherder.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.chickenherder.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.smelter.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.smelter.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.ranger.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.ranger.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.knight.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.knight.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.composter.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.composter.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.student.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.student.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.archertraining.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.archertraining.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.combattraining.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.combattraining.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.sawmill.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.sawmill.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.blacksmith.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.blacksmith.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.stonemason.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.stonemason.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.stonesmeltery.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.stonesmeltery.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.crusher.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.crusher.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.sifter.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.sifter.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.florist.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.florist.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.enchanter.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.enchanter.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.researcher.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.researcher.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.healer.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.healer.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.pupil.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.pupil.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.teacher.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.teacher.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.glassblower.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.glassblower.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.dyer.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.dyer.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.fletcher.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.fletcher.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.mechanic.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.mechanic.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.planter.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.planter.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.rabbitherder.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.rabbitherder.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.concretemixer.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.concretemixer.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.beekeeper.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.beekeeper.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cookassistant.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cookassistant.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.netherworker.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.netherworker.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.quarrier.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.quarrier.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.druid.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.druid.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.alchemist.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.alchemist.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.citizen.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.citizen.female.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.child.male.good_housing
+[16:10:24] [Render thread/WARN]: Missing sound for event: minecolonies:mob.child.female.good_housing
+[16:10:24] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headset Earphone (HyperX Virtual Surround Sound)
+[16:10:24] [Render thread/INFO]: Sound engine started
+[16:10:24] [Render thread/INFO]: Created: 4096x2048x1 minecraft:textures/atlas/blocks.png-atlas
+[16:10:24] [Render thread/INFO]: [OptiFine] Animated sprites: 135
+[16:10:24] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/signs.png-atlas
+[16:10:24] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[16:10:24] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[16:10:24] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[16:10:24] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[16:10:24] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[16:10:24] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[16:10:24] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[16:10:24] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[16:10:24] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[16:10:24] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[16:10:24] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[16:10:26] [Render thread/WARN]: Model "minecolonies:spear#inventory" is using the deprecated loader "forge:separate-perspective" instead of "forge:separate_transforms". This loader will be removed in 1.20.
+[16:10:26] [Render thread/WARN]: Model "minecolonies:spear#inventory" is using the deprecated loader "forge:separate-perspective" instead of "forge:separate_transforms". This loader will be removed in 1.20.
+[16:10:29] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[16:10:29] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[16:10:29] [Render thread/INFO]: [OptiFine] Animated sprites: 2
+[16:10:29] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[16:10:29] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[16:10:29] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[16:10:29] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[16:10:29] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[16:10:29] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[16:10:29] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[16:10:29] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[16:10:29] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Supplementaries Generated Pack
+[16:10:29] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[16:10:29] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Supplementaries Generated Pack
+[16:10:29] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[16:10:29] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Supplementaries Generated Pack
+[16:10:32] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Supplementaries Generated Pack
+[16:10:32] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[16:10:32] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[16:10:32] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Supplementaries Generated Pack
+[16:10:32] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
+[16:10:32] [Render thread/INFO]: [OptiFine] Set ForgeConfig.CLIENT.experimentalForgeLightPipelineEnabled=false
+[16:10:38] [Render thread/INFO]: Connecting to eu4783916.g-portal.game, 25565
+[16:10:40] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[16:10:41] [Netty Client IO #2/ERROR]: Channels [voicechat:secret,voicechat:create_group,voicechat:update_state,leather_craft:leather_craft,voicechat:player_state,craftable_slimeballs:craftable_slimeballs,kleeslabs:network,redstone_clock:redstone_clock,voicechat:remove_category,voicechat:add_category,nocubes_farmer_compats:nocubes_farmer_compats,moonlight:channel,voicechat:leave_group,craftingautomat:network,voicechat:set_group,backpacked:network,voicechat:joined_group,voicechat:player_states,structurize:net-channel,minecolonies:net-channel,voicechat:request_secret] rejected their server side version number during listping
+[16:10:41] [Netty Client IO #2/INFO]: Server has additional mods that may be needed on the client: betterdungeons@1.18.2-Forge-2.1.0, paucal@0.4.7, quarryplus@18.16, lazierae2@3.1.4, simplemagnets@1.1.8, integratedterminals@1.4.1, bambooeverything@1.3.3-build.34+mc1.18.2, thermal@9.0.0.32, ironjetpacks@5.1.4, rftoolsbase@1.18-3.0.11, laserio@1.4.3, ctm@1.18.2-1.1.5+5, xnet@1.18-4.0.7, evilcraft@1.2.10, yungsapi@1.18.2-Forge-2.0.8, powah@3.0.5-beta, cabletiers@1.18.2-0.547, rangedpumps@0.9.2, wstweaks@7.1.3, shrink@1.3.3, universalgrid@1.18.2-1.0321, darkutils@10.0.5, apotheosis@5.7.0, clickadv@, waterstrainer@1.18.2-13.0.0, delogger@4.0.0-build.4+mc1.18.2, shetiphiancore@3.10.10, mysticalagradditions@5.1.2, tklib@0.0.23, refinedstorage@1.10.3, structure_gel@2.4.7, aeinfinitybooster@1.18.2-1.1.0+9, alltheores@1.9.9m-1.18.2-40.1.0, industrialforegoing@3.3.1.4, torchmaster@18.1.0, repurposed_structures@5.1.14+1.18.2, thermal_innovation@9.0.0.14, ironfurnaces@3.3.2, mcwtrpdoors@1.0.7, silentgear@2.10.16, yungsbridges@1.18.2-Forge-2.1.0, botania@1.18.2-435, curios@1.18.2-5.0.7.1, corail_woodcutter@2.3.7, advgenerators@1.1.0.6, yungsextras@1.18.2-Forge-2.1.0, angelring@1.5.0, framedblocks@5.8.0, thermal_foundation@9.0.0.32, tombstone@7.5.4, antighost@1.18.1-forge39.0.9-1.1.2, extrastorage@2.2.0, thermal_locomotion@9.0.0.10, naturesaura@36.3, constructionwand@1.18.2-2.7, mcwroofs@2.2.1, littlelogistics@1.2.6, chimes@1.1.2, toms_storage@1.3.5, bettermineshafts@1.18.2-Forge-2.2, geckolib3@3.0.45, darkpaintings@10.0.3, mcwlights@1.0.4, crafting_on_a_stick@1.0.1, kiwi@6.1.2, nomowanderer@1.18.2_1.1.3, ae2@11.6.1-beta, attributefix@14.0.2, caelus@1.18.1-3.0.0.2, mekanism@10.2.5, colytra@1.18.1-5.2.0.2, bdlib@1.19.3.7, allthecompressed@1.0.8-1.18.2-40.1.30, kubejs_thermal@1802.1.5-build.14, naturescompass@1.18.2-1.9.7-forge, additionalbars@3.0.1-beta, jumpboat@1.18.2-0.1.0.3, libx@1.18.2-3.2.19, compactmachines@4.5.0, phosphophyllite@0.6.0-beta.1.5, curioofundying@1.18-5.3.0.0, farmingforblockheads@10.0.2, pneumaticcraft@1.18.2-3.4.3-8, cofh_core@9.0.0.24, ars_nouveau@2.7.9, extradisks@1.18.2-2.1.0, rftoolspower@1.18-4.0.7, ftbic@1802.1.6-build.214, mythicbotany@1.18.2-2.1.13, integratedcrafting@1.0.25, dungeons_arise@2.1.50d-1.18.2, logprot@1.4, theoneprobe@1.18-5.1.2, ftbquests@1802.3.8-build.101, immersiveengineering@1.18.2-8.2.2-154, blockydoors@1.18-1.0.0, allthemodium@1.9.6-1.18.2-40.1.51, rftoolsbuilder@1.18-4.0.16, mantle@1.9.27, integrateddynamics@1.11.12, itemcollectors@1.1.5, croptopia@2.1.0, megacells@1.4.2-1.18.2, bhc@1.18.2-1.0.0, thermal_cultivation@9.0.0.13, myrtrees@1.1.0-build.29, justenoughprofessions@Trans Rights Are Human Rights, securitycraft@1.9.3.1, integratedterminalscompat@1.4.1, deepresonance@3.0.15, creativecrafter@1.18.2-0.2121, kubejs_create@1802.2.2-build.28, structures_compass@1.18.2-1.4.1, appleskin@2.4.1+mc1.18.2, integratedtunnelscompat@1.8.15, showcaseitem@1.18.2-1.0, lootr@0.2.21.58, connectedglass@1.1.4, occultism@1.18.2-1.40.3, parry@2.3, allthetweaks@1.9.9.6-1.18.2-40.1.60, aquaculture@1.18.2-2.3.8, kubejs_immersive_engineering@1802.2.1-build.35, extremesoundmuffler@, cosmeticarmorreworked@1.18.2-v2a, rsrequestify@2.2.0, hexerei@0.2.2, cyclopscore@1.16.0, supercircuitmaker@0.2.9, blue_skies@1.3.12, betterwitchhuts@1.18.2-Forge-1.0.1, advancedperipherals@0.7.19r, utilitix@1.18.2-0.4.6, kubejs_mekanism@1802.1.3-build.8, incontrol@1.18-6.0.18, connectivity@, sophisticatedcore@1.18.2-0.5.13.132, rsgauges@1.2.16, findme@3.0.6, glassential@1.18.2-1.2.3, cookingforblockheads@12.1.1, prism@ANY, potionsmaster@0.5.9-1.18.2-40.0.2, moreminecarts@1.4.6, feature_nbt_deadlock_be_gone@2.0.0+1.18.2, sophisticatedbackpacks@1.18.2-3.18.29.718, littlecontraptions@1.18.2.1, buildinggadgets@3.13.0-build.5+mc1.18.2}, mcwdoors@1.0.7, lightingwand@4.1.1, jeed@ANY, mekanismgenerators@10.2.5, xnetgases@3.0.1, absentbydesign@1.18.2-1.6.2, twilightforest@4.1.1423, mob_grinding_utils@1.18.2-0.4.46, experiencebugfix@1.38.0.2, rsinfinitybooster@1.18.2-2.1+20, chipped@2.0.0, hostilenetworks@3.2.2, entangled@1.3.11, endertanks@1.11.7, commoncapabilities@2.8.2, crashutilities@ANY, mcwfences@1.0.6, wirelesschargers@1.0.6, simplylight@1.18.2-1.4.5-build.43, evilcraftcompat@1.2.10, dpanvil@1.18.2-3.4.1, patchouli@1.18.2-71.1, ironchests@2.0.4, rftoolsstorage@1.18-3.0.11, tiab@2.1.0-mc1.18.1, rftoolscontrol@1.18-5.0.8, villagertools@1.18-1.0.2, thermal_expansion@9.0.0.15, integratedtunnels@1.8.15, mysticalcustomization@3.1.2, lostcities@1.18-5.3.12, libnonymous@2.1.0, elevatorid@1.18.2-1.8.4, ftbultimine@1802.3.3-build.67, betterstrongholds@1.18.2-Forge-2.1.1, runelic@11.0.1, mekanismtools@10.2.5, inventoryprofilesnext@1.7.1, curiouselytra@1.18.1-5.0.1.0, computercraft@1.100.10, aiimprovements@0.5.2, productivebees@1.18.2-0.9.1.6, trashcans@1.0.15, bwncr@, observable@2.2.3, voidtotem@1.18.2-1.3.1, darkmodeeverywhere@ANY, rhino@1802.2.1-build.240, biggerreactors@0.6.0-beta.1.3, rootsclassic@1.18.2-1.1.27, cucumber@5.1.2, trashslot@11.0.2, blueflame@1.18.2-0.1.0.1, sophisticatedstorage@1.18.2-0.5.17.152, additionallanterns@1.0.1, itemfilters@1802.2.8-build.40, elementalcraft@1.18.2-4.4.28, platforms@1.9.5, ponderjs@ANY, ensorcellation@3.0.0.10, create@0.5.0.e, waystones@10.1.0, clumps@8.0.0+15, comforts@1.18.2-5.0.0.5, artifacts@1.18.2-4.2.0, dimstorage@6.1.0, myserveriscompatible@1.0, dungeoncrawl@2.3.10, charginggadgets@1.7.0, create_confectionery@1.0.8, bonsaitrees3@3.1.0, travel_anchors@1.18.2-3.3, lazydfu@0.1.3, restrictions@1.18-4.0.0, mcjtylib@1.18-6.0.17, betterdeserttemples@1.18.2-Forge-1.3.1, mahoutsukai@1.18.2-v1.34.35, integrateddynamicscompat@1.11.12, mininggadgets@1.11.0, hexcasting@0.9.4, bloodmagic@1.18.2-3.2.6-41, selene@1.18.2-1.17.9, mysticalagriculture@5.1.2, tconstruct@3.5.2.40, rftoolsutility@1.18-4.0.19, eccentrictome@0.0NONE, toolbelt@1.18.8, titanium@3.5.6, silentlib@6.2.0, ae2things@1.0.3-beta, forbidden_arcanus@1.18.2-2.1.0-beta3, archers_paradox@3.0.0.8, omgourd@3.0.0.7, iceberg@ANY, reliquary@1.18.2-2.0.19.1161, pigpen@8.0.1, fastbench@6.1.1, fluxnetworks@7.0.7.8, enderchests@1.9.6, appbot@1.0.1, quartz@0.0.0-beta.1.3, pylons@2.1.1, creeperoverhaul@1.3.0, engineersdecor@1.1.24, solcarrot@1.18.1-1.12.0, functionalstorage@1.18.2-1.0.6, modularrouters@9.1.1-93, enhancedcelestials@2.0.7, refinedstorageaddons@0.8.2, appmek@1.2.2, expandability@6.0.0, valhelsia_core@1.18.2-0.3.1, createaddition@1.18.2-20220914a
+[16:10:41] [Netty Client IO #2/INFO]: Client has mods that are missing on server: [craftable_slimeballs, supermartijn642configlib, ftblibrary, rechiseled, craftingautomat, jei, multipiston, mcwwindows, modnametooltip, kleeslabs, placebo, nocubes_farmer_compats, decorative_blocks, balm, leather_craft, ftbchunks, supplementaries, minecraft, mcwbridges, farmersdelight, voicechat, terrablender, moonlight, biomesoplenty, spectrelib, supermartijn642corelib, domum_ornamentum, pipez, farmersrespite, blockui, gravestone, polymorph, redstone_clock, chestpresents, backpacked, structurize, minecolonies, fastfurnace, cfm, architectury, byg, fastleafdecay]
+[16:10:43] [Netty Client IO #1/WARN]: Updated logging config. RS Debug logging enabled: false
+[16:10:43] [Netty Client IO #1/INFO]: Loading JourneyMap Forge Configs
+[16:10:45] [Netty Client IO #1/INFO]: Connected to a modded server.
+[16:10:45] [Render thread/INFO]: Started 2 worker threads
+[16:10:45] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[16:10:45] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[16:10:45] [Render thread/INFO]: Sending secret request to the server
+[16:10:45] [Netty Client IO #1/WARN]: Received visitor data for nonexisting colony:2 dim:ResourceKey[minecraft:dimension / minecraft:overworld]
+[16:10:46] [Render thread/INFO]: Synchronized 73 saplings
+[16:10:46] [Render thread/INFO]: Synchronized 29 ore blocks with 27 smeltable ores
+[16:10:46] [Render thread/INFO]: Synchronized 19 plantables
+[16:10:46] [Render thread/INFO]: Synchronized 145 food types with 123 edible
+[16:10:46] [Render thread/INFO]: Synchronized 1116 fuel types
+[16:10:46] [Render thread/INFO]: Synchronized 53 monsters
+[16:10:46] [Render thread/INFO]: Finished discovering lucky oreBlocks 175
+[16:10:46] [Render thread/INFO]: Finished discovering recruitment costs
+[16:10:46] [Render thread/INFO]: Finished discovering diseases
+[16:10:46] [Render thread/INFO]: Synced Flute Songs
+[16:10:46] [Render thread/INFO]: Synced Captured Mobs settings
+[16:10:46] [Render thread/INFO]: Synced Globe data
+[16:10:46] [Render thread/WARN]: Unknown recipe category: minecolonies:composting/minecolonies:compostables_poor
+[16:10:46] [Render thread/WARN]: Unknown recipe category: minecolonies:composting/minecolonies:compostables_rich
+[16:10:46] [Render thread/WARN]: Unknown recipe category: minecolonies:composting/minecolonies:compostables
+[16:10:46] [Netty Client IO #1/WARN]: Received visitor data for nonexisting colony:1 dim:ResourceKey[minecraft:dimension / minecraft:overworld]
+[16:10:46] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[16:10:50] [Render thread/INFO]: Finished additional setup in 46 ms
+[16:10:50] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[16:10:50] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[16:10:50] [Render thread/INFO]: Starting JEI...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: jei:minecraft ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: jei:minecraft took 3.392 ms
+[16:10:50] [Render thread/INFO]: Registering item subtypes: rechiseled:chiseling_plugin ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: rechiseled:chiseling_plugin took 14.30 ?s
+[16:10:50] [Render thread/INFO]: Registering item subtypes: craftingautomat:autocrafter ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: craftingautomat:autocrafter took 24.10 ?s
+[16:10:50] [Render thread/INFO]: Registering item subtypes: jei:gui ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: jei:gui took 7.900 ?s
+[16:10:50] [Render thread/INFO]: Registering item subtypes: jei:debug ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: jei:debug took 15.80 ?s
+[16:10:50] [Render thread/INFO]: Registering item subtypes: jei:forge_gui ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: jei:forge_gui took 5.200 ?s
+[16:10:50] [Render thread/INFO]: Registering item subtypes: decorative_blocks:main ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: decorative_blocks:main took 8.500 ?s
+[16:10:50] [Render thread/INFO]: Registering item subtypes: minecraft:jeresources ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: minecraft:jeresources took 8.100 ?s
+[16:10:50] [Render thread/INFO]: Registering item subtypes: supplementaries:jei_plugin ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: supplementaries:jei_plugin took 840.2 ?s
+[16:10:50] [Render thread/INFO]: Registering item subtypes: farmersdelight:jei_plugin ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: farmersdelight:jei_plugin took 9.300 ?s
+[16:10:50] [Render thread/INFO]: Registering item subtypes: minecraft:domum_ornamentum ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: minecraft:domum_ornamentum took 752.1 ?s
+[16:10:50] [Render thread/INFO]: Registering item subtypes: pipez:pipez ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: pipez:pipez took 5.900 ?s
+[16:10:50] [Render thread/INFO]: Registering item subtypes: farmersrespite:jei_plugin ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: farmersrespite:jei_plugin took 6.400 ?s
+[16:10:50] [Render thread/INFO]: Registering item subtypes: minecraft:minecolonies ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: minecraft:minecolonies took 4.800 ?s
+[16:10:50] [Render thread/INFO]: Registering item subtypes: ftblibrary:jei ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: ftblibrary:jei took 7.800 ?s
+[16:10:50] [Render thread/INFO]: Registering item subtypes: jei:internal ...
+[16:10:50] [Render thread/INFO]: Registering item subtypes: jei:internal took 8.500 ?s
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft took 20.20 ?s
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: rechiseled:chiseling_plugin ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: rechiseled:chiseling_plugin took 5.000 ?s
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: craftingautomat:autocrafter ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: craftingautomat:autocrafter took 4.400 ?s
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: jei:gui ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: jei:gui took 5.900 ?s
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: jei:debug ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: jei:debug took 1.305 ms
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: jei:forge_gui ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: jei:forge_gui took 6.400 ?s
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: decorative_blocks:main ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: decorative_blocks:main took 4.900 ?s
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: minecraft:jeresources ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: minecraft:jeresources took 4.500 ?s
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: supplementaries:jei_plugin ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: supplementaries:jei_plugin took 4.400 ?s
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: farmersdelight:jei_plugin ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: farmersdelight:jei_plugin took 4.500 ?s
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: minecraft:domum_ornamentum ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: minecraft:domum_ornamentum took 4.400 ?s
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: pipez:pipez ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: pipez:pipez took 4.400 ?s
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: farmersrespite:jei_plugin ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: farmersrespite:jei_plugin took 4.600 ?s
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: minecraft:minecolonies ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: minecraft:minecolonies took 7.100 ?s
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: ftblibrary:jei ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: ftblibrary:jei took 25.30 ?s
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: jei:internal ...
+[16:10:50] [Render thread/INFO]: Registering fluid subtypes: jei:internal took 4.800 ?s
+[16:10:50] [Render thread/INFO]: Registering ingredients: jei:minecraft ...
+[16:10:50] [Render thread/INFO]: Registering ingredients: jei:minecraft took 91.03 ms
+[16:10:50] [Render thread/INFO]: Registering ingredients: rechiseled:chiseling_plugin ...
+[16:10:50] [Render thread/INFO]: Registering ingredients: rechiseled:chiseling_plugin took 12.90 ?s
+[16:10:50] [Render thread/INFO]: Registering ingredients: craftingautomat:autocrafter ...
+[16:10:50] [Render thread/INFO]: Registering ingredients: craftingautomat:autocrafter took 9.400 ?s
+[16:10:50] [Render thread/INFO]: Registering ingredients: jei:gui ...
+[16:10:50] [Render thread/INFO]: Registering ingredients: jei:gui took 15.70 ?s
+[16:10:50] [Render thread/INFO]: Registering ingredients: jei:debug ...
+[16:10:50] [Render thread/INFO]: Loading config file: E:\curseforge mods\Instances\Lars' Modpack with friends\config\jei\jei-debug.ini
+[16:10:50] [Render thread/INFO]: Registering ingredients: jei:debug took 3.166 ms
+[16:10:50] [Render thread/INFO]: Registering ingredients: jei:forge_gui ...
+[16:10:50] [Render thread/INFO]: Registering ingredients: jei:forge_gui took 7.900 ?s
+[16:10:50] [Render thread/INFO]: Registering ingredients: decorative_blocks:main ...
+[16:10:50] [Render thread/INFO]: Registering ingredients: decorative_blocks:main took 5.900 ?s
+[16:10:50] [Render thread/INFO]: Registering ingredients: minecraft:jeresources ...
+[16:10:50] [Render thread/INFO]: Registering ingredients: minecraft:jeresources took 5.400 ?s
+[16:10:50] [Render thread/INFO]: Registering ingredients: supplementaries:jei_plugin ...
+[16:10:50] [Render thread/INFO]: Registering ingredients: supplementaries:jei_plugin took 5.300 ?s
+[16:10:50] [Render thread/INFO]: Registering ingredients: farmersdelight:jei_plugin ...
+[16:10:50] [Render thread/INFO]: Registering ingredients: farmersdelight:jei_plugin took 6.500 ?s
+[16:10:50] [Render thread/INFO]: Registering ingredients: minecraft:domum_ornamentum ...
+[16:10:50] [Render thread/INFO]: Registering ingredients: minecraft:domum_ornamentum took 6.500 ?s
+[16:10:50] [Render thread/INFO]: Registering ingredients: pipez:pipez ...
+[16:10:50] [Render thread/INFO]: Registering ingredients: pipez:pipez took 6.500 ?s
+[16:10:50] [Render thread/INFO]: Registering ingredients: farmersrespite:jei_plugin ...
+[16:10:50] [Render thread/INFO]: Registering ingredients: farmersrespite:jei_plugin took 6.400 ?s
+[16:10:50] [Render thread/INFO]: Registering ingredients: minecraft:minecolonies ...
+[16:10:50] [Render thread/INFO]: Registering ingredients: minecraft:minecolonies took 6.600 ?s
+[16:10:50] [Render thread/INFO]: Registering ingredients: ftblibrary:jei ...
+[16:10:50] [Render thread/INFO]: Registering ingredients: ftblibrary:jei took 6.900 ?s
+[16:10:50] [Render thread/INFO]: Registering ingredients: jei:internal ...
+[16:10:50] [Render thread/INFO]: Registering ingredients: jei:internal took 4.400 ?s
+[16:10:50] [Render thread/INFO]: Registering categories: jei:minecraft ...
+[16:10:50] [Render thread/INFO]: Registering categories: jei:minecraft took 21.72 ms
+[16:10:50] [Render thread/INFO]: Registering categories: rechiseled:chiseling_plugin ...
+[16:10:50] [Render thread/INFO]: Registering categories: rechiseled:chiseling_plugin took 840.6 ?s
+[16:10:50] [Render thread/INFO]: Registering categories: craftingautomat:autocrafter ...
+[16:10:50] [Render thread/INFO]: Registering categories: craftingautomat:autocrafter took 6.600 ?s
+[16:10:50] [Render thread/INFO]: Registering categories: jei:gui ...
+[16:10:50] [Render thread/INFO]: Registering categories: jei:gui took 8.600 ?s
+[16:10:50] [Render thread/INFO]: Registering categories: jei:debug ...
+[16:10:50] [Render thread/INFO]: Registering categories: jei:debug took 12.20 ?s
+[16:10:50] [Render thread/INFO]: Registering categories: jei:forge_gui ...
+[16:10:50] [Render thread/INFO]: Registering categories: jei:forge_gui took 5.600 ?s
+[16:10:50] [Render thread/INFO]: Registering categories: decorative_blocks:main ...
+[16:10:50] [Render thread/INFO]: Registering categories: decorative_blocks:main took 8.100 ?s
+[16:10:50] [Render thread/INFO]: Registering categories: minecraft:jeresources ...
+[16:10:50] [Render thread/INFO]: Reloading ResourceManager: Default, ftb-essentials-1902.1.10-build.47.jar, CraftableSlimeBalls.jar, supermartijn642configlib-1.1.6b-forge-mc1.19.jar, netherportalfix-forge-1.19-10.0.0.jar, rechiseled-1.0.12a-forge-mc1.19.jar, CraftingAutomat-MC1.19.x-1.2.3.jar, jei-1.19.2-forge-11.5.2.1007.jar, Entity_Collision_FPS_Fix-forge-1.19-2.0.0.0.jar, mcw-windows-2.1.1-mc1.19.2forge.jar, modnametooltip-1.19-1.19.0.jar, kleeslabs-forge-1.19-12.1.0.jar, journeymap-1.19.2-5.9.3-forge.jar, Placebo-1.19.2-7.1.2.jar, nocube's_farmers_compats_1.0.0_Forge_1.19.2.jar, Decorative Blocks-forge-1.19.2-3.0.0.jar, Bookshelf-Forge-1.19.2-16.2.17.jar, farsight-1.19.2-2.1.jar, balm-4.5.3.jar, leathercraft-1.19.2-1.1.0.jar, JustEnoughResources-1.19.2-1.2.1.193.jar, cloth-config-8.2.88-forge.jar, forge-1.19.2-43.2.0-universal.jar, supplementaries-1.19.2-2.2.46.jar, craftingtweaks-forge-1.19-15.1.0.jar, client-1.19.2-20220805.130853-srg.jar, mcw-bridges-2.0.6-mc1.19.2forge.jar, FarmersDelight-1.19-1.2.0.jar, voicechat-forge-1.19.2-2.3.28.jar, EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar, TerraBlender-forge-1.19.2-2.0.1.128.jar, moonlight-1.19.2-2.2.5-forge.jar, MouseTweaks-forge-mc1.19-2.23.jar, BiomesOPlenty-1.19.2-17.1.1.162.jar, spectrelib-forge-0.11.0+1.19.jar, supermartijn642corelib-1.1.1a-forge-mc1.19.jar, domum_ornamentum-1.19-1.0.76-ALPHA-universal.jar, pipez-1.19.2-1.0.1.jar, flywheel-forge-1.19.2-0.6.8.a.jar, FarmersRespite-1.19-2.0.jar, blockui-1.19-0.0.64-ALPHA.jar, gravestone-1.19.2-1.0.1.jar, polymorph-forge-0.46.1+1.19.2.jar, redstone_clock-1.0-1.19-1.19.2.jar, chestpresents-0.2.jar, backpacked-2.1.10-1.19.jar, structurize-1.19.2-1.0.472-BETA.jar, multipiston-1.19.2-1.2.21-ALPHA.jar, minecolonies-1.19.2-1.0.1226-BETA.jar, FastFurnace-1.19.2-7.0.0.jar, cfm-7.0.0-pre35-1.19.2.jar, architectury-6.5.69-forge.jar, climbladdersfast-3.0.6-1.19-forge.jar, ftb-library-forge-1902.3.12-build.170.jar, ftb-teams-forge-1902.2.12-build.95.jar, ftb-chunks-forge-1902.3.15-build.233.jar, infinitemusic-1.7.0.jar, ferritecore-5.0.3-forge.jar, Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.0.13.jar, FastLeafDecay-30.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack ftb-essentials-1902.1.10-build.47.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack CraftableSlimeBalls.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack supermartijn642configlib-1.1.6b-forge-mc1.19.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack netherportalfix-forge-1.19-10.0.0.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack rechiseled-1.0.12a-forge-mc1.19.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack CraftingAutomat-MC1.19.x-1.2.3.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack jei-1.19.2-forge-11.5.2.1007.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack Entity_Collision_FPS_Fix-forge-1.19-2.0.0.0.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack mcw-windows-2.1.1-mc1.19.2forge.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack modnametooltip-1.19-1.19.0.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack kleeslabs-forge-1.19-12.1.0.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack journeymap-1.19.2-5.9.3-forge.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack Placebo-1.19.2-7.1.2.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack nocube's_farmers_compats_1.0.0_Forge_1.19.2.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack Decorative Blocks-forge-1.19.2-3.0.0.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack Bookshelf-Forge-1.19.2-16.2.17.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack farsight-1.19.2-2.1.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack balm-4.5.3.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack leathercraft-1.19.2-1.1.0.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack JustEnoughResources-1.19.2-1.2.1.193.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack cloth-config-8.2.88-forge.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack forge-1.19.2-43.2.0-universal.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack supplementaries-1.19.2-2.2.46.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack craftingtweaks-forge-1.19-15.1.0.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack client-1.19.2-20220805.130853-srg.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack mcw-bridges-2.0.6-mc1.19.2forge.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack FarmersDelight-1.19-1.2.0.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack voicechat-forge-1.19.2-2.3.28.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack TerraBlender-forge-1.19.2-2.0.1.128.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack moonlight-1.19.2-2.2.5-forge.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack MouseTweaks-forge-mc1.19-2.23.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack BiomesOPlenty-1.19.2-17.1.1.162.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack supermartijn642corelib-1.1.1a-forge-mc1.19.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack domum_ornamentum-1.19-1.0.76-ALPHA-universal.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack pipez-1.19.2-1.0.1.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack flywheel-forge-1.19.2-0.6.8.a.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack FarmersRespite-1.19-2.0.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack blockui-1.19-0.0.64-ALPHA.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack gravestone-1.19.2-1.0.1.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack polymorph-forge-0.46.1+1.19.2.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack redstone_clock-1.0-1.19-1.19.2.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack chestpresents-0.2.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack backpacked-2.1.10-1.19.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack structurize-1.19.2-1.0.472-BETA.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack multipiston-1.19.2-1.2.21-ALPHA.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack minecolonies-1.19.2-1.0.1226-BETA.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack FastFurnace-1.19.2-7.0.0.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack cfm-7.0.0-pre35-1.19.2.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack architectury-6.5.69-forge.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack climbladdersfast-3.0.6-1.19-forge.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack ftb-library-forge-1902.3.12-build.170.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack ftb-teams-forge-1902.2.12-build.95.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack ftb-chunks-forge-1902.3.15-build.233.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack infinitemusic-1.7.0.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack ferritecore-5.0.3-forge.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.0.13.jar
+[16:10:50] [Render thread/ERROR]: Failed to get filter section from pack FastLeafDecay-30.jar
+[16:10:50] [Render thread/INFO]: World UID is set to: 8f5ce2b4-f259-4443-b02d-54ff6c0d5a1d
+[16:10:50] [Render thread/WARN]: Received passengers for unknown entity
+[16:10:51] [Render thread/INFO]: Loading FTB Chunks client data from world bd093aaf-4893-48aa-b290-f4e12fdae236
+[16:10:51] [Render thread/INFO]: Synced supplementaries-common.toml configs
+[16:10:51] [Render thread/INFO]: Loaded 1130 advancements
+[16:10:51] [Render thread/WARN]: Unknown custom packet identifier: voicechat:player_states
+[16:10:51] [Render thread/INFO]: Received secret
+[16:10:51] [Render thread/INFO]: Connecting to server: 'eu4783916.g-portal.game.:25875'
+[16:10:51] [Render thread/WARN]: Unknown custom packet identifier: voicechat:secret
+[16:10:51] [VoiceChatAuthenticationThread/INFO]: Trying to authenticate voice connection
+[16:10:51] [VoiceChatConnectionThread/INFO]: Server acknowledged authentication
+[16:10:51] [Render thread/WARN]: Unknown custom packet identifier: voicechat:player_state
+[16:10:51] [NativeInitializationThread/INFO]: Using Opus version 'libopus 1.3.1'
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/pillager_outpost}.pools[5].entries[0]: Unknown loot table called minecolonies:chests/supplycamp
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/pillager_outpost}.pools[6].entries[0]: Unknown loot table called supplementaries:inject/pillager_flax
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/underwater_ruin_big}.pools[2].entries[0]: Unknown loot table called minecolonies:chests/supplyship
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/abandoned_mineshaft}.pools[7].entries[0]: Unknown loot table called supplementaries:inject/mineshaft_bomb
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/nether_bridge}.pools[2].entries[0]: Unknown loot table called supplementaries:inject/fortress_bomb
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/shipwreck_map}.pools[2].entries[0]: Unknown loot table called minecolonies:chests/supplyship
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/spawn_bonus_chest}.pools[4].entries[0]: Unknown loot table called minecolonies:chests/supplycamp
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/village/village_cartographer}.pools[1].entries[0]: Unknown loot table called minecolonies:chests/supplycamp
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/village/village_mason}.pools[1].entries[0]: Unknown loot table called minecolonies:chests/supplycamp
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/buried_treasure}.pools[6].entries[0]: Unknown loot table called minecolonies:chests/supplyship
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/shipwreck_supply}.pools[1].entries[0]: Unknown loot table called minecolonies:chests/supplyship
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/stronghold_corridor}.pools[1].entries[0]: Unknown loot table called minecolonies:chests/supplycamp
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/shipwreck_supply}.pools[2].entries[0]: Unknown loot table called supplementaries:inject/shipwreck_storage_flax
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/stronghold_crossing}.pools[2].entries[0]: Unknown loot table called supplementaries:inject/stronghold_blue_bomb
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/desert_pyramid}.pools[2].entries[0]: Unknown loot table called minecolonies:chests/supplycamp
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/jungle_temple}.pools[1].entries[0]: Unknown loot table called minecolonies:chests/supplycamp
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/village/village_armorer}.pools[1].entries[0]: Unknown loot table called minecolonies:chests/supplyship
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/stronghold_crossing}.pools[3].entries[0]: Unknown loot table called supplementaries:inject/stronghold_bomb
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/village/village_temple}.pools[1].entries[0]: Unknown loot table called minecolonies:chests/supplyship
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/shipwreck_treasure}.pools[3].entries[0]: Unknown loot table called supplementaries:inject/shipwreck_treasure_globe
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/underwater_ruin_small}.pools[2].entries[0]: Unknown loot table called minecolonies:chests/supplyship
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/stronghold_library}.pools[1].entries[0]: Unknown loot table called minecolonies:chests/supplycamp
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/woodland_mansion}.pools[4].entries[0]: Unknown loot table called supplementaries:inject/mansion_quiver
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/woodland_mansion}.pools[3].entries[0]: Unknown loot table called minecolonies:chests/supplycamp
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/village/village_desert_house}.pools[1].entries[0]: Unknown loot table called minecolonies:chests/supplycamp
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/simple_dungeon}.pools[4].entries[0]: Unknown loot table called supplementaries:inject/dungeon_quiver
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/simple_dungeon}.pools[6].entries[0]: Unknown loot table called supplementaries:inject/dungeon_blue_bomb
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/simple_dungeon}.pools[3].entries[0]: Unknown loot table called minecolonies:chests/supplycamp
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/village/village_fisher}.pools[1].entries[0]: Unknown loot table called minecolonies:chests/supplyship
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/igloo_chest}.pools[2].entries[0]: Unknown loot table called minecolonies:chests/supplycamp
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/abandoned_mineshaft}.pools[3].entries[0]: Unknown loot table called minecolonies:chests/supplycamp
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/shipwreck_treasure}.pools[2].entries[0]: Unknown loot table called minecolonies:chests/supplyship
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/jungle_temple}.pools[4].entries[0]: Unknown loot table called supplementaries:inject/temple_spikes
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/nether_bridge}.pools[1].entries[0]: Unknown loot table called supplementaries:inject/fortress_blue_bomb
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/abandoned_mineshaft}.pools[4].entries[0]: Unknown loot table called supplementaries:inject/mineshaft_rope
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/jungle_temple}.pools[3].entries[0]: Unknown loot table called supplementaries:inject/temple_bomb
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/end_city_treasure}.pools[1].entries[0]: Unknown loot table called supplementaries:inject/end_city_stasis
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/abandoned_mineshaft}.pools[6].entries[0]: Unknown loot table called supplementaries:inject/mineshaft_blue_bomb
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/abandoned_mineshaft}.pools[5].entries[0]: Unknown loot table called supplementaries:inject/mineshaft_flax
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/jungle_temple}.pools[2].entries[0]: Unknown loot table called supplementaries:inject/temple_blue_bomb
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/simple_dungeon}.pools[5].entries[0]: Unknown loot table called supplementaries:inject/dungeon_flax
+[16:10:51] [Render thread/WARN]: Found validation problem in {minecraft:chests/stronghold_crossing}.pools[1].entries[0]: Unknown loot table called minecolonies:chests/supplycamp
+[16:10:51] [Render thread/INFO]: Registered 0 additional loot tables.
+[16:10:52] [Render thread/WARN]: Failed loading villager cartographer registered at cartographer
+[16:10:52] [Render thread/WARN]: Exception caught when registering villager
+java.lang.NullPointerException: Cannot read field "f_19853_" because "p_219708_" is null
+	at net.minecraft.world.entity.npc.VillagerTrades$TreasureMapForEmeralds.m_213663_(VillagerTrades.java:877) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at jeresources.collection.TradeList.addMerchantRecipe(TradeList.java:58) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23235!/:1.2.1.193]
+	at jeresources.collection.TradeList.addITradeList(TradeList.java:69) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23235!/:1.2.1.193]
+	at jeresources.entry.AbstractVillagerEntry.addITradeLists(AbstractVillagerEntry.java:30) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23235!/:1.2.1.193]
+	at jeresources.entry.AbstractVillagerEntry.<init>(AbstractVillagerEntry.java:23) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23235!/:1.2.1.193]
+	at jeresources.entry.VillagerEntry.<init>(VillagerEntry.java:19) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23235!/:1.2.1.193]
+	at jeresources.util.VillagersHelper.initRegistry(VillagersHelper.java:23) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23235!/:1.2.1.193]
+	at jeresources.compatibility.Compatibility.init(Compatibility.java:33) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23235!/:1.2.1.193]
+	at jeresources.proxy.CommonProxy.initCompatibility(CommonProxy.java:14) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23235!/:1.2.1.193]
+	at jeresources.jei.JEIConfig.registerCategories(JEIConfig.java:98) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23235!/:1.2.1.193]
+	at mezz.jei.library.load.PluginLoader.lambda$createRecipeCategories$3(PluginLoader.java:88) ~[jei-1.19.2-forge-11.5.2.1007.jar%23233!/:11.5.2.1007]
+	at mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:25) ~[jei-1.19.2-forge-11.5.2.1007.jar%23233!/:11.5.2.1007]
+	at mezz.jei.library.load.PluginLoader.createRecipeCategories(PluginLoader.java:88) ~[jei-1.19.2-forge-11.5.2.1007.jar%23233!/:11.5.2.1007]
+	at mezz.jei.library.load.PluginLoader.createRecipeManager(PluginLoader.java:117) ~[jei-1.19.2-forge-11.5.2.1007.jar%23233!/:11.5.2.1007]
+	at mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:110) ~[jei-1.19.2-forge-11.5.2.1007.jar%23233!/:11.5.2.1007]
+	at mezz.jei.forge.startup.StartEventObserver.transitionState(StartEventObserver.java:137) ~[jei-1.19.2-forge-11.5.2.1007.jar%23233!/:11.5.2.1007]
+	at mezz.jei.forge.startup.StartEventObserver.onEvent(StartEventObserver.java:100) ~[jei-1.19.2-forge-11.5.2.1007.jar%23233!/:11.5.2.1007]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraft.client.multiplayer.ClientPacketListener.m_5859_(ClientPacketListener.java:1321) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:35) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:11) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$checkThreadAndEnqueue$0(PacketUtils.java:40) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.optifine.util.PacketRunnable.run(PacketRunnable.java:28) ~[OptiFine_1.19.2_HD_U_I1.jar%23267!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:198) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:163) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:140) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1072) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:700) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.client.main.Main.m_239872_(Main.java:212) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.2.0.jar%2395!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[16:10:52] [Render thread/INFO]: Registering categories: minecraft:jeresources took 1.505 s
+[16:10:52] [Render thread/INFO]: Registering categories: supplementaries:jei_plugin ...
+[16:10:52] [Render thread/INFO]: Registering categories: supplementaries:jei_plugin took 11.20 ?s
+[16:10:52] [Render thread/INFO]: Registering categories: farmersdelight:jei_plugin ...
+[16:10:52] [Render thread/INFO]: Registering categories: farmersdelight:jei_plugin took 4.953 ms
+[16:10:52] [Render thread/INFO]: Registering categories: minecraft:domum_ornamentum ...
+[16:10:52] [Render thread/INFO]: Registering categories: minecraft:domum_ornamentum took 2.534 ms
+[16:10:52] [Render thread/INFO]: Registering categories: pipez:pipez ...
+[16:10:52] [Render thread/INFO]: Registering categories: pipez:pipez took 7.700 ?s
+[16:10:52] [Render thread/INFO]: Registering categories: farmersrespite:jei_plugin ...
+[16:10:52] [Render thread/INFO]: Registering categories: farmersrespite:jei_plugin took 3.205 ms
+[16:10:52] [Render thread/INFO]: Registering categories: minecraft:minecolonies ...
+[16:10:52] [Render thread/INFO]: Registering categories: minecraft:minecolonies took 80.53 ms
+[16:10:52] [Render thread/INFO]: Registering categories: ftblibrary:jei ...
+[16:10:52] [Render thread/INFO]: Registering categories: ftblibrary:jei took 8.100 ?s
+[16:10:52] [Render thread/INFO]: Registering categories: jei:internal ...
+[16:10:52] [Render thread/INFO]: Registering categories: jei:internal took 1.422 ms
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft took 2.786 ms
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: rechiseled:chiseling_plugin ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: rechiseled:chiseling_plugin took 10.00 ?s
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: craftingautomat:autocrafter ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: craftingautomat:autocrafter took 4.300 ?s
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: jei:gui ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: jei:gui took 7.100 ?s
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: jei:debug ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: jei:debug took 6.500 ?s
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: jei:forge_gui ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: jei:forge_gui took 6.100 ?s
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: decorative_blocks:main ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: decorative_blocks:main took 5.900 ?s
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: minecraft:jeresources ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: minecraft:jeresources took 6.100 ?s
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: supplementaries:jei_plugin ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: supplementaries:jei_plugin took 5.800 ?s
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: farmersdelight:jei_plugin ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: farmersdelight:jei_plugin took 6.600 ?s
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: minecraft:domum_ornamentum ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: minecraft:domum_ornamentum took 6.000 ?s
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: pipez:pipez ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: pipez:pipez took 5.800 ?s
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: farmersrespite:jei_plugin ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: farmersrespite:jei_plugin took 19.00 ?s
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: minecraft:minecolonies ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: minecraft:minecolonies took 7.000 ?s
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: ftblibrary:jei ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: ftblibrary:jei took 6.000 ?s
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: jei:internal ...
+[16:10:52] [Render thread/INFO]: Registering vanilla category extensions: jei:internal took 6.200 ?s
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft took 1.578 ms
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: rechiseled:chiseling_plugin ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: rechiseled:chiseling_plugin took 29.60 ?s
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: craftingautomat:autocrafter ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: craftingautomat:autocrafter took 5.200 ?s
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: jei:gui ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: jei:gui took 3.800 ?s
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: jei:debug ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: jei:debug took 14.50 ?s
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: jei:forge_gui ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: jei:forge_gui took 9.300 ?s
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: decorative_blocks:main ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: decorative_blocks:main took 6.100 ?s
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: minecraft:jeresources ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: minecraft:jeresources took 5.800 ?s
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: supplementaries:jei_plugin ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: supplementaries:jei_plugin took 6.900 ?s
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: farmersdelight:jei_plugin ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: farmersdelight:jei_plugin took 83.90 ?s
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: minecraft:domum_ornamentum ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: minecraft:domum_ornamentum took 42.50 ?s
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: pipez:pipez ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: pipez:pipez took 6.100 ?s
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: farmersrespite:jei_plugin ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: farmersrespite:jei_plugin took 44.00 ?s
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: minecraft:minecolonies ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: minecraft:minecolonies took 191.2 ?s
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: ftblibrary:jei ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: ftblibrary:jei took 5.500 ?s
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: jei:internal ...
+[16:10:52] [Render thread/INFO]: Registering recipe catalysts: jei:internal took 6.000 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: jei:minecraft ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: jei:minecraft took 29.10 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: rechiseled:chiseling_plugin ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: rechiseled:chiseling_plugin took 7.400 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: craftingautomat:autocrafter ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: craftingautomat:autocrafter took 5.800 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: jei:gui ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: jei:gui took 5.000 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: jei:debug ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: jei:debug took 5.200 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: jei:forge_gui ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: jei:forge_gui took 5.300 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: decorative_blocks:main ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: decorative_blocks:main took 5.200 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: minecraft:jeresources ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: minecraft:jeresources took 5.100 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: supplementaries:jei_plugin ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: supplementaries:jei_plugin took 7.700 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: farmersdelight:jei_plugin ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: farmersdelight:jei_plugin took 4.800 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: minecraft:domum_ornamentum ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: minecraft:domum_ornamentum took 10.20 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: pipez:pipez ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: pipez:pipez took 6.000 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: farmersrespite:jei_plugin ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: farmersrespite:jei_plugin took 5.600 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: minecraft:minecolonies ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: minecraft:minecolonies took 6.500 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: ftblibrary:jei ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: ftblibrary:jei took 5.400 ?s
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: jei:internal ...
+[16:10:52] [Render thread/INFO]: Registering advanced plugins: jei:internal took 5.300 ?s
+[16:10:52] [Render thread/INFO]: Building recipe registry...
+[16:10:52] [Render thread/INFO]: Building recipe registry took 18.31 ms
+[16:10:52] [Render thread/INFO]: Registering recipes: jei:minecraft ...
+[16:10:52] [Render thread/INFO]: Registering recipes: jei:minecraft took 333.0 ms
+[16:10:52] [Render thread/INFO]: Registering recipes: rechiseled:chiseling_plugin ...
+[16:10:52] [Render thread/INFO]: Registering recipes: rechiseled:chiseling_plugin took 3.715 ms
+[16:10:52] [Render thread/INFO]: Registering recipes: craftingautomat:autocrafter ...
+[16:10:52] [Render thread/INFO]: Registering recipes: craftingautomat:autocrafter took 10.90 ?s
+[16:10:52] [Render thread/INFO]: Registering recipes: jei:gui ...
+[16:10:52] [Render thread/INFO]: Registering recipes: jei:gui took 6.600 ?s
+[16:10:52] [Render thread/INFO]: Registering recipes: jei:debug ...
+[16:10:52] [Render thread/INFO]: Registering recipes: jei:debug took 12.30 ?s
+[16:10:52] [Render thread/INFO]: Registering recipes: jei:forge_gui ...
+[16:10:52] [Render thread/INFO]: Registering recipes: jei:forge_gui took 6.200 ?s
+[16:10:52] [Render thread/INFO]: Registering recipes: decorative_blocks:main ...
+[16:10:52] [Render thread/INFO]: Registering recipes: decorative_blocks:main took 8.371 ms
+[16:10:52] [Render thread/INFO]: Registering recipes: minecraft:jeresources ...
+[16:10:52] [Render thread/INFO]: Registering recipes: minecraft:jeresources took 37.65 ms
+[16:10:52] [Render thread/INFO]: Registering recipes: supplementaries:jei_plugin ...
+[16:10:52] [Render thread/INFO]: Registering recipes: supplementaries:jei_plugin took 7.055 ms
+[16:10:52] [Render thread/INFO]: Registering recipes: farmersdelight:jei_plugin ...
+[16:10:52] [Render thread/INFO]: Registering recipes: farmersdelight:jei_plugin took 6.488 ms
+[16:10:52] [Render thread/INFO]: Registering recipes: minecraft:domum_ornamentum ...
+[16:10:52] [Render thread/INFO]: Registering recipes: minecraft:domum_ornamentum took 74.64 ms
+[16:10:52] [Render thread/INFO]: Registering recipes: pipez:pipez ...
+[16:10:52] [Render thread/INFO]: Registering recipes: pipez:pipez took 5.600 ?s
+[16:10:52] [Render thread/INFO]: Registering recipes: farmersrespite:jei_plugin ...
+[16:10:52] [Render thread/INFO]: Registering recipes: farmersrespite:jei_plugin took 1.167 ms
+[16:10:52] [Render thread/INFO]: Registering recipes: minecraft:minecolonies ...
+[16:10:53] [Render thread/INFO]: Registering recipes: minecraft:minecolonies took 696.4 ms
+[16:10:53] [Render thread/INFO]: Registering recipes: ftblibrary:jei ...
+[16:10:53] [Render thread/INFO]: Registering recipes: ftblibrary:jei took 11.50 ?s
+[16:10:53] [Render thread/INFO]: Registering recipes: jei:internal ...
+[16:10:53] [Render thread/INFO]: Registering recipes: jei:internal took 6.400 ?s
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft took 4.034 ms
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: rechiseled:chiseling_plugin ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: rechiseled:chiseling_plugin took 13.00 ?s
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: craftingautomat:autocrafter ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: craftingautomat:autocrafter took 47.60 ?s
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: jei:gui ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: jei:gui took 5.600 ?s
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug took 3.800 ?s
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge_gui ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge_gui took 3.500 ?s
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: decorative_blocks:main ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: decorative_blocks:main took 3.700 ?s
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: minecraft:jeresources ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: minecraft:jeresources took 3.900 ?s
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: supplementaries:jei_plugin ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: supplementaries:jei_plugin took 5.100 ?s
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: farmersdelight:jei_plugin ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: farmersdelight:jei_plugin took 30.50 ?s
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: minecraft:domum_ornamentum ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: minecraft:domum_ornamentum took 3.600 ?s
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: pipez:pipez ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: pipez:pipez took 3.300 ?s
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: farmersrespite:jei_plugin ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: farmersrespite:jei_plugin took 22.30 ?s
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: minecraft:minecolonies ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: minecraft:minecolonies took 2.446 ms
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: ftblibrary:jei ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: ftblibrary:jei took 10.70 ?s
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal ...
+[16:10:53] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal took 5.900 ?s
+[16:10:53] [Render thread/INFO]: Building runtime...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: jei:minecraft ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: jei:minecraft took 2.762 ms
+[16:10:53] [Render thread/INFO]: Registering gui handlers: rechiseled:chiseling_plugin ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: rechiseled:chiseling_plugin took 10.40 ?s
+[16:10:53] [Render thread/INFO]: Registering gui handlers: craftingautomat:autocrafter ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: craftingautomat:autocrafter took 50.20 ?s
+[16:10:53] [Render thread/INFO]: Registering gui handlers: jei:gui ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: jei:gui took 7.414 ms
+[16:10:53] [Render thread/INFO]: Registering gui handlers: jei:debug ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: jei:debug took 15.40 ?s
+[16:10:53] [Render thread/INFO]: Registering gui handlers: jei:forge_gui ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: jei:forge_gui took 6.400 ?s
+[16:10:53] [Render thread/INFO]: Registering gui handlers: decorative_blocks:main ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: decorative_blocks:main took 7.200 ?s
+[16:10:53] [Render thread/INFO]: Registering gui handlers: minecraft:jeresources ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: minecraft:jeresources took 6.900 ?s
+[16:10:53] [Render thread/INFO]: Registering gui handlers: supplementaries:jei_plugin ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: supplementaries:jei_plugin took 5.700 ?s
+[16:10:53] [Render thread/INFO]: Registering gui handlers: farmersdelight:jei_plugin ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: farmersdelight:jei_plugin took 49.90 ?s
+[16:10:53] [Render thread/INFO]: Registering gui handlers: minecraft:domum_ornamentum ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: minecraft:domum_ornamentum took 15.80 ?s
+[16:10:53] [Render thread/INFO]: Registering gui handlers: pipez:pipez ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: pipez:pipez took 648.7 ?s
+[16:10:53] [Render thread/INFO]: Registering gui handlers: farmersrespite:jei_plugin ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: farmersrespite:jei_plugin took 26.40 ?s
+[16:10:53] [Render thread/INFO]: Registering gui handlers: minecraft:minecolonies ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: minecraft:minecolonies took 4.370 ms
+[16:10:53] [Render thread/INFO]: Registering gui handlers: ftblibrary:jei ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: ftblibrary:jei took 47.50 ?s
+[16:10:53] [Render thread/INFO]: Registering gui handlers: jei:internal ...
+[16:10:53] [Render thread/INFO]: Registering gui handlers: jei:internal took 6.200 ?s
+[16:10:53] [Render thread/INFO]: Registering Runtime: jei:minecraft ...
+[16:10:53] [Render thread/INFO]: Registering Runtime: jei:minecraft took 29.50 ?s
+[16:10:53] [Render thread/INFO]: Registering Runtime: rechiseled:chiseling_plugin ...
+[16:10:53] [Render thread/INFO]: Registering Runtime: rechiseled:chiseling_plugin took 6.100 ?s
+[16:10:53] [Render thread/INFO]: Registering Runtime: craftingautomat:autocrafter ...
+[16:10:53] [Render thread/INFO]: Registering Runtime: craftingautomat:autocrafter took 6.800 ?s
+[16:10:53] [Render thread/INFO]: Registering Runtime: jei:gui ...
+[16:10:53] [Render thread/INFO]: Registering Runtime: jei:gui took 4.900 ?s
+[16:10:53] [Render thread/INFO]: Registering Runtime: jei:debug ...
+[16:10:53] [Render thread/INFO]: Registering Runtime: jei:debug took 5.400 ?s
+[16:10:53] [Render thread/INFO]: Registering Runtime: jei:forge_gui ...
+[16:10:53] [Render thread/INFO]: Starting JEI GUI
+[16:10:53] [Render thread/INFO]: Building ingredient list...
+[16:10:53] [Render thread/INFO]: Building ingredient list took 5.022 ms
+[16:10:53] [Render thread/INFO]: Building ingredient filter...
+[16:10:53] [Render thread/INFO]: Loading config file: E:\curseforge mods\Instances\Lars' Modpack with friends\config\jei\jei-client.ini
+[16:10:53] [Render thread/INFO]: Adding 4973 ingredients
+[16:10:53] [Render thread/INFO]: Added 4973 ingredients
+[16:10:53] [Render thread/INFO]: Building ingredient filter took 462.2 ms
+[16:10:54] [Render thread/INFO]: Registering Runtime: jei:forge_gui took 538.9 ms
+[16:10:54] [Render thread/INFO]: Registering Runtime: decorative_blocks:main ...
+[16:10:54] [Render thread/INFO]: Registering Runtime: decorative_blocks:main took 10.20 ?s
+[16:10:54] [Render thread/INFO]: Registering Runtime: minecraft:jeresources ...
+[16:10:54] [Render thread/INFO]: Registering Runtime: minecraft:jeresources took 6.200 ?s
+[16:10:54] [Render thread/INFO]: Registering Runtime: supplementaries:jei_plugin ...
+[16:10:54] [Render thread/INFO]: Registering Runtime: supplementaries:jei_plugin took 6.600 ?s
+[16:10:54] [Render thread/INFO]: Registering Runtime: farmersdelight:jei_plugin ...
+[16:10:54] [Render thread/INFO]: Registering Runtime: farmersdelight:jei_plugin took 5.700 ?s
+[16:10:54] [Render thread/INFO]: Registering Runtime: minecraft:domum_ornamentum ...
+[16:10:54] [Render thread/INFO]: Registering Runtime: minecraft:domum_ornamentum took 6.700 ?s
+[16:10:54] [Render thread/INFO]: Registering Runtime: pipez:pipez ...
+[16:10:54] [Render thread/INFO]: Registering Runtime: pipez:pipez took 5.400 ?s
+[16:10:54] [Render thread/INFO]: Registering Runtime: farmersrespite:jei_plugin ...
+[16:10:54] [Render thread/INFO]: Registering Runtime: farmersrespite:jei_plugin took 5.600 ?s
+[16:10:54] [Render thread/INFO]: Registering Runtime: minecraft:minecolonies ...
+[16:10:54] [Render thread/INFO]: Registering Runtime: minecraft:minecolonies took 5.600 ?s
+[16:10:54] [Render thread/INFO]: Registering Runtime: ftblibrary:jei ...
+[16:10:54] [Render thread/INFO]: Registering Runtime: ftblibrary:jei took 5.600 ?s
+[16:10:54] [Render thread/INFO]: Registering Runtime: jei:internal ...
+[16:10:54] [Render thread/INFO]: Registering Runtime: jei:internal took 5.600 ?s
+[16:10:54] [Render thread/INFO]: Building runtime took 568.4 ms
+[16:10:54] [Render thread/INFO]: Sending Runtime: jei:minecraft ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: jei:minecraft took 19.30 ?s
+[16:10:54] [Render thread/INFO]: Sending Runtime: rechiseled:chiseling_plugin ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: rechiseled:chiseling_plugin took 7.100 ?s
+[16:10:54] [Render thread/INFO]: Sending Runtime: craftingautomat:autocrafter ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: craftingautomat:autocrafter took 5.800 ?s
+[16:10:54] [Render thread/INFO]: Sending Runtime: jei:gui ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: jei:gui took 4.000 ?s
+[16:10:54] [Render thread/INFO]: Sending Runtime: jei:debug ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: jei:debug took 6.700 ?s
+[16:10:54] [Render thread/INFO]: Sending Runtime: jei:forge_gui ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: jei:forge_gui took 3.600 ?s
+[16:10:54] [Render thread/INFO]: Sending Runtime: decorative_blocks:main ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: decorative_blocks:main took 3.600 ?s
+[16:10:54] [Render thread/INFO]: Sending Runtime: minecraft:jeresources ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: minecraft:jeresources took 11.10 ?s
+[16:10:54] [Render thread/INFO]: Sending Runtime: supplementaries:jei_plugin ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: supplementaries:jei_plugin took 4.100 ?s
+[16:10:54] [Render thread/INFO]: Sending Runtime: farmersdelight:jei_plugin ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: farmersdelight:jei_plugin took 3.500 ?s
+[16:10:54] [Render thread/INFO]: Sending Runtime: minecraft:domum_ornamentum ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: minecraft:domum_ornamentum took 14.90 ?s
+[16:10:54] [Render thread/INFO]: Sending Runtime: pipez:pipez ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: pipez:pipez took 3.300 ?s
+[16:10:54] [Render thread/INFO]: Sending Runtime: farmersrespite:jei_plugin ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: farmersrespite:jei_plugin took 3.300 ?s
+[16:10:54] [Render thread/INFO]: Sending Runtime: minecraft:minecolonies ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: minecraft:minecolonies took 3.400 ?s
+[16:10:54] [Render thread/INFO]: Sending Runtime: ftblibrary:jei ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: ftblibrary:jei took 6.300 ?s
+[16:10:54] [Render thread/INFO]: Sending Runtime: jei:internal ...
+[16:10:54] [Render thread/INFO]: Sending Runtime: jei:internal took 3.200 ?s
+[16:10:54] [Render thread/INFO]: Starting JEI took 3.582 s
+[16:10:54] [Render thread/WARN]: Unknown custom packet identifier: voicechat:player_state
+[16:10:55] [Render thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:10:55] [Render thread/INFO]: Custom modded block handling enabled for biomesoplenty
+[16:10:55] [Render thread/INFO]: Loaded 7 waypoints from E:\curseforge mods\Instances\Lars' Modpack with friends\journeymap\data\mp\Minecraft~Server_8f5ce2b4~f259~4443~b02d~54ff6c0d5a1d\waypoints
+[16:10:55] [Render thread/INFO]: Mapping started in E:\curseforge mods\Instances\Lars' Modpack with friends\journeymap\data\mp\Minecraft~Server_8f5ce2b4~f259~4443~b02d~54ff6c0d5a1d\overworld. Memory: 2112MB total, 934MB free 
+[16:10:57] [Render thread/WARN]: Can't get entityTexture for minecolonies:textures/entity_icon/citizen/default/foresterfemale1_b.png
+[16:10:58] [Render thread/INFO]: [System] [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[16:10:58] [Render thread/INFO]: JourneyMap: Press [J]
+[16:11:10] [Render thread/ERROR]: Unreported exception thrown!
+java.lang.IllegalArgumentException: Cannot get property EnumProperty{name=variant, clazz=class com.minecolonies.api.blocks.types.RackType, values=[blockrackemptysingle, blockrackfullsingle, blockrackempty, blockrackfull, blockrackair]} as it does not exist in Block{minecolonies:blockhutlumberjack}
+	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at com.minecolonies.api.tileentities.TileEntityRack.getCapability(TileEntityRack.java:441) ~[minecolonies-1.19.2-1.0.1226-BETA.jar%23240!/:1.19.2-1.0.1226-BETA]
+	at com.minecolonies.api.tileentities.TileEntityColonyBuilding.getCapability(TileEntityColonyBuilding.java:608) ~[minecolonies-1.19.2-1.0.1226-BETA.jar%23240!/:1.19.2-1.0.1226-BETA]
+	at de.maxhenkel.pipez.blocks.ItemPipeBlock.canConnectTo(ItemPipeBlock.java:26) ~[pipez-1.19.2-1.0.1.jar%23248!/:1.19.2-1.0.1]
+	at de.maxhenkel.pipez.blocks.PipeBlock.isAbleToConnect(PipeBlock.java:299) ~[pipez-1.19.2-1.0.1.jar%23248!/:1.19.2-1.0.1]
+	at de.maxhenkel.pipez.blocks.PipeBlock.isConnected(PipeBlock.java:287) ~[pipez-1.19.2-1.0.1.jar%23248!/:1.19.2-1.0.1]
+	at de.maxhenkel.pipez.blocks.PipeBlock.getState(PipeBlock.java:273) ~[pipez-1.19.2-1.0.1.jar%23248!/:1.19.2-1.0.1]
+	at de.maxhenkel.pipez.blocks.PipeBlock.m_5573_(PipeBlock.java:263) ~[pipez-1.19.2-1.0.1.jar%23248!/:1.19.2-1.0.1]
+	at net.minecraft.world.item.BlockItem.m_5965_(BlockItem.java:117) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.world.item.BlockItem.m_40576_(BlockItem.java:63) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.world.item.BlockItem.m_6225_(BlockItem.java:46) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.world.item.ItemStack.lambda$useOn$5(ItemStack.java:237) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.world.item.ItemStack.onItemUse(ItemStack.java:252) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:237) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.client.multiplayer.MultiPlayerGameMode.m_233746_(MultiPlayerGameMode.java:355) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.client.multiplayer.MultiPlayerGameMode.m_233740_(MultiPlayerGameMode.java:312) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.client.multiplayer.MultiPlayerGameMode.m_233729_(MultiPlayerGameMode.java:252) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.client.multiplayer.MultiPlayerGameMode.m_233732_(MultiPlayerGameMode.java:311) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.optifine.override.PlayerControllerOF.m_233732_(PlayerControllerOF.java:96) ~[OptiFine_1.19.2_HD_U_I1.jar%23267!/:?]
+	at net.minecraft.client.Minecraft.m_91277_(Minecraft.java:1671) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.client.Minecraft.m_91279_(Minecraft.java:1951) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.client.Minecraft.m_91398_(Minecraft.java:1768) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1078) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:700) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.client.main.Main.m_239872_(Main.java:212) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23259!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.2.0.jar%2395!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[16:11:10] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[16:11:10] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[16:11:10] [Render thread/INFO]: Stopping JEI
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: jei:minecraft ...
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: jei:minecraft took 23.00 ?s
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: rechiseled:chiseling_plugin ...
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: rechiseled:chiseling_plugin took 7.900 ?s
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: craftingautomat:autocrafter ...
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: craftingautomat:autocrafter took 5.600 ?s
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: jei:gui ...
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: jei:gui took 5.900 ?s
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: jei:debug ...
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: jei:debug took 5.500 ?s
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: jei:forge_gui ...
+[16:11:10] [Render thread/INFO]: Stopping JEI GUI
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: jei:forge_gui took 5.590 ms
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: decorative_blocks:main ...
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: decorative_blocks:main took 10.50 ?s
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: minecraft:jeresources ...
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: minecraft:jeresources took 5.000 ?s
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: supplementaries:jei_plugin ...
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: supplementaries:jei_plugin took 4.100 ?s
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: farmersdelight:jei_plugin ...
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: farmersdelight:jei_plugin took 3.900 ?s
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: minecraft:domum_ornamentum ...
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: minecraft:domum_ornamentum took 3.800 ?s
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: pipez:pipez ...
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: pipez:pipez took 5.500 ?s
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: farmersrespite:jei_plugin ...
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: farmersrespite:jei_plugin took 5.700 ?s
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: minecraft:minecolonies ...
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: minecraft:minecolonies took 5.200 ?s
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: ftblibrary:jei ...
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: ftblibrary:jei took 5.100 ?s
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: jei:internal ...
+[16:11:10] [Render thread/INFO]: Sending Runtime Unavailable: jei:internal took 3.600 ?s
+[16:11:10] [Render thread/INFO]: Removed all colony views
+[16:11:10] [Render thread/INFO]: Clearing audio channels
+[16:11:10] [Render thread/INFO]: Stopping microphone thread
+[16:11:10] [Render thread/INFO]: Disconnecting voicechat
+[16:11:10] [Render thread/INFO]: Mapping halted in E:\curseforge mods\Instances\Lars' Modpack with friends\journeymap\data\mp\Minecraft~Server_8f5ce2b4~f259~4443~b02d~54ff6c0d5a1d\minecraft:overworld
+[16:11:14] [Render thread/FATAL]: Preparing crash report with UUID 17fce635-3908-43d6-b642-549671628db6
+[16:11:15] [Render thread/FATAL]: Preparing crash report with UUID ecd6d374-2189-4493-8b6c-15d5f3fab92f
+[16:11:15] [Render thread/FATAL]: Preparing crash report with UUID 988a3cab-8603-496b-85d0-76149c9abdd4
